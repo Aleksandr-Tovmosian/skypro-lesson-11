@@ -7,7 +7,7 @@
 /* Потом селекторы по тегам */
 
 html {
-
+    font-family: Arial
 }
 
 main {
@@ -26,10 +26,10 @@ a {
 /* Колонки */
 
 .row {
-
+    display: flex;
 }
 .col {
-
+    flex: auto;
 }
 
 
@@ -40,7 +40,17 @@ a {
 }
 
 .button {
-
+    width: 125px;
+    height: ;
+    background-color: mediumslateblue;
+    border-color: mediumslateblue;
+    color: white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin: 10px 10px 10px 0px;
+    border-radius: 10px;
 }
 
 /* Потом специальные правила по страничкам */
@@ -48,7 +58,11 @@ a {
 /* Login*/
 
 .input-login {
-
+    width: 300px;
+    border-color: silver;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 0px;
+    border-radius: 5px;
 
 }
 
@@ -78,7 +92,12 @@ a {
 /* Страничка популярного */
 
 .cover {
+    width: 130px;
+    margin: 10px 10px 0px 0px;
+}
 
+.perenos {
+    width: 160px;
 }
 
 /* Страничка подписки  */
