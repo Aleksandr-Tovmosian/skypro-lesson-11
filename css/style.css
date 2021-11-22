@@ -16,7 +16,7 @@ main {
 }
 
 p {
-
+    line-height: 1.8;
 }
 
 a {
@@ -115,5 +115,13 @@ a {
 }
 
 .button-link {
-
+    width: 125px;
+    height: ;
+    background-color: mediumslateblue;
+    border-color: mediumslateblue;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    margin: 10px 10px 10px 0px;
+    border-radius: 10px;
+    text-decoration: none
 }
