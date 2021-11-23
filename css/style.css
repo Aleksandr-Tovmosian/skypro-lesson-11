@@ -70,23 +70,43 @@ a {
 /* Страничка жанров и тегов */
 
 .genre-first {
-
+    width: 300px;
+    height: ;
+    background-color: #E1F5EA;
+    padding: 10px 10px 10px 20px;
+    margin: 20px 10px 20px 0px;
+    border-radius: 5px;
 }
 
 .genre-second {
-
+    width: 225px;
+    height: ;
+    background-color: #CBEDFF;
+    padding: 10px 10px 10px 20px;
+    margin: 10px 10px 20px 0px;
+    border-radius: 5px;
 }
 
 .genre-third {
-
+    width: 155px;
+    height: ;
+    background-color: PAPAYAWHIP;
+    padding: 10px 10px 10px 20px;
+    margin: 10px 10px 20px 0px;
+    border-radius: 5px;
 }
 
 .genre-fourth {
-
+    width: 100px;
+    height: ;
+    background-color: #EBDCF9;
+    padding: 10px 10px 10px 20px;
+    margin: 10px 10px 30px 0px;
+    border-radius: 5px;
 }
 
 .tag {
-
+    color: #554AF0
 }
 
 /* Страничка популярного */
